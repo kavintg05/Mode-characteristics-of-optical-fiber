@@ -39,5 +39,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 
+
 # Result
 Hence the mode characteristics of fiber optic cable is studied and the lower order Linearly Polarized (LP) modes are observed.
